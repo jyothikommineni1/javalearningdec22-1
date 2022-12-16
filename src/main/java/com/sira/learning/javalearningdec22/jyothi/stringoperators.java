@@ -44,9 +44,19 @@ public class stringoperators {
 		 //repeat
 		 System.out.println(fname.repeat(2));
 		 
-		 ;
+		 //staticstring
 		 
+		 int a=10,b=20;
+		 System.out.println(a+b);
+		String s1=String.valueOf(a);
+		String s2=String.valueOf(b);
 		 
+		 System.out.println(s1+s2);
+		 
+		
+		
+		 
+
 	}
 	
 
